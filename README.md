@@ -1,5 +1,5 @@
 # Jacob Taylor
-## [Assignment #]
+## Homework 1
 ## 1-5-2026 
 ## Worked with/sources 
 * The Go Textbook you provided
@@ -7,4 +7,5 @@
 * Go's Website 
 ## Project Quirks/ Things that don't work
 * It mostly just works, however it does have the quirk of I got into a rush and so I don't have some checks that I probably should
+
 
